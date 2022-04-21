@@ -12,6 +12,6 @@
 </div>
 <hr/>
 
- 👨🏻‍💻 About me:
+ 👨🏻‍💻 About me: <br>
  I'am FrontEnd Developer from Paris ! 🇫🇷
  
