@@ -8,7 +8,7 @@
 - 📫 How to reach me: <div><a href="https://www.linkedin.com/in/lazar-v-todorovic-3a3312188/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/></a>
  </div>
- <div>
+ <div style="margin-left:10px;">
  <a href="https://www.instagram.com/todorjr/">
 <img src="https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white"/></a>
 </div>
