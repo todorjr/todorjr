@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on my personal portfolio ! 💻
-- 🌱 I’m currently learning <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>! 😎
+- 🌱 I’m currently learning <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"width="40"height="40"/>! 😎
 - 🤔 I’m looking for help for finding company where I can upgrade my knowledge ! 🏢
 - 📫 How to reach me: <div><a href="https://www.linkedin.com/in/lazar-v-todorovic-3a3312188/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/></a>
