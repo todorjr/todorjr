@@ -1,25 +1,21 @@
-### Hello world ! Welcome to my GitHub profile !👋
-
-<!--
-**todorjr/todorjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+### Welcome to my GitHub profile !👋
 
 
-- 🔭 I’m currently working on my personal portfolio ! 💻
+
+- 🔭 I’m currently working on my personal portfolio  💻
 - 🌱 I’m currently learning <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="20" height="20" />
-- 🤔 I’m looking for help for finding company where I can upgrade my knowledge ! 🏢
+- 🤔 I'm looking to find a company where I can upgrade my knowledge and be part of an amazing team  🏢
 - 📫 How to reach me: <div><a href="https://www.linkedin.com/in/lazar-v-todorovic-3a3312188/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/></a>
+ <a href="https://www.instagram.com/todorjr/">
+<img src="https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white"/></a>
 </div>
 <hr/>
 
  👨🏻‍💻 About me: <br>
- I'am Junior FrontEnd Developer from Paris ! 🇫🇷
- <ul>
- <li>I had completed the OpenClassroom web development program 🎓</li>
- <li>Curious about Web Development</li>
- <li></li>
- <li></li>
- </ul>
+My name is Lazar Todorovic and I'm FrontEnd developer.I'm originally from Serbia,living in Paris!🇷🇸🇫🇷
+I had finished program for Web Development by OpenClassrooms!
+
  <hr>
  :hammer_and_wrench: Languages and Tools :
 
