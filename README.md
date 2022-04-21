@@ -1,4 +1,4 @@
-### Welcome to my GitHub profile !👋
+### Ciao  ! 👋🏻
 
 
 
@@ -7,7 +7,6 @@
 - 🤔 I'm looking to find a company where I can upgrade my knowledge and be part of an amazing team  🏢
 - 📫 How to reach me: <br><div><a href="https://www.linkedin.com/in/lazar-v-todorovic-3a3312188/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/></a>
- <span></span>
  <a href="https://www.instagram.com/todorjr/">
 <img src="https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white"/></a>
 </div>
@@ -15,7 +14,8 @@
 
  👨🏻‍💻 About me: <br>
 My name is Lazar Todorovic and I'm FrontEnd developer.I'm originally from Serbia,living in Paris!🇷🇸🇫🇷<br>
-I had finished program for Web Development by <a href="https://openclassrooms.com/en/">OpenClassrooms</a>
+I had finished program for Web Development by <a href="https://openclassrooms.com/en/">OpenClassrooms</a>.<br>
+In my free time ,I love to play tennis and football,and also hiking is my favorite hobby ! ✌🏼
 
  <hr>
  :hammer_and_wrench: Languages and Tools :
