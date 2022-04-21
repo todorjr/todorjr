@@ -7,7 +7,7 @@
 - 🤔 I'm looking to find a company where I can upgrade my knowledge and be part of an amazing team  🏢
 - 📫 How to reach me: <br><div><a href="https://www.linkedin.com/in/lazar-v-todorovic-3a3312188/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/></a>
-
+ <span></span>
  <a href="https://www.instagram.com/todorjr/">
 <img src="https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white"/></a>
 </div>
