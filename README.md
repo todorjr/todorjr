@@ -5,10 +5,10 @@
 - 🔭 I’m currently working on my personal portfolio  💻
 - 🌱 I’m currently learning <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="20" height="20" />
 - 🤔 I'm looking to find a company where I can upgrade my knowledge and be part of an amazing team  🏢
-- 📫 How to reach me: <div><a href="https://www.linkedin.com/in/lazar-v-todorovic-3a3312188/">
+- 📫 How to reach me: <br><div><a href="https://www.linkedin.com/in/lazar-v-todorovic-3a3312188/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/></a>
  </div>
- <div style="margin-left:10px;">
+ <div>
  <a href="https://www.instagram.com/todorjr/">
 <img src="https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white"/></a>
 </div>
