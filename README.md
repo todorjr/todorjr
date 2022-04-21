@@ -7,11 +7,17 @@
 - 🔭 I’m currently working on my personal portfolio ! 💻
 - 🌱 I’m currently learning React! 😎
 - 🤔 I’m looking for help for finding company where I can upgrade my knowledge ! 🏢
-- 📫 How to reach me: <div >  <a href="https://www.linkedin.com/in/lazar-v-todorovic-3a3312188/">
+- 📫 How to reach me: <div><a href="https://www.linkedin.com/in/lazar-v-todorovic-3a3312188/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/></a>
 </div>
 <hr/>
 
  👨🏻‍💻 About me: <br>
  I'am FrontEnd Developer from Paris ! 🇫🇷
+ <ul>
+ <li>1</li>
+ <li>2</li>
+ <li>3</li>
+ <li>4</li>
+ </ul>
  
