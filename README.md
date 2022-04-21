@@ -14,7 +14,7 @@
 
  👨🏻‍💻 About me: <br>
 My name is Lazar Todorovic and I'm FrontEnd developer.I'm originally from Serbia,living in Paris!🇷🇸🇫🇷<br>
-I had finished program for Web Development by <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FFichier%3ALogo_OpenClassrooms.png&psig=AOvVaw0anm82bGL6qFFFS0vmu7NQ&ust=1650642625778000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNi02YzBpfcCFQAAAAAdAAAAABAO" alt="OpenClassrooms" width="20" height="20"/>
+I had finished program for Web Development by <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.radins.com%2Fcode-promo%2Fopenclassrooms%2F&psig=AOvVaw3hpXdc60iLqrVn1T1n7gX4&ust=1650642753709000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPiq7s_BpfcCFQAAAAAdAAAAABAD" alt="OpenClassrooms" width="20" height="20"/>
 
  <hr>
  :hammer_and_wrench: Languages and Tools :
