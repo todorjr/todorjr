@@ -10,5 +10,5 @@
 - 📫 How to reach me: <div >  <a href="https://www.linkedin.com/in/lazar-v-todorovic-3a3312188/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/></a>
 </div>
+<hr/>
  👨🏻‍💻 About me:
- - 📫 How to reach me:
