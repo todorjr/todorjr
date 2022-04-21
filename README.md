@@ -7,4 +7,4 @@
 - 🔭 I’m currently working on my personal portfolio ! 💻
 - 🌱 I’m currently learning React! 😎
 - 🤔 I’m looking for help for finding company where I can upgrade my knowledge ! 🏢
-- 📫 How to reach me: https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white
+- 📫 How to reach me: <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/>
