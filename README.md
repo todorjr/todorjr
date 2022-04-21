@@ -13,11 +13,11 @@
 <hr/>
 
  👨🏻‍💻 About me: <br>
- I'am FrontEnd Developer from Paris ! 🇫🇷
+ I'am Junior FrontEnd Developer from Paris ! 🇫🇷
  <ul>
- <li>1</li>
- <li>2</li>
- <li>3</li>
- <li>4</li>
+ <li>I had completed the OpenClassroom web development program 🎓</li>
+ <li></li>
+ <li></li>
+ <li></li>
  </ul>
  
