@@ -11,4 +11,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/></a>
 </div>
 <hr/>
+
  👨🏻‍💻 About me:
+ I'am FrontEnd Developer from Paris ! 🇫🇷
+ 
