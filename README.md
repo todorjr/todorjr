@@ -11,7 +11,7 @@
  <a href="https://www.instagram.com/todorjr/">
 <img src="https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white"/></a>
  <a href="mailto:eleazartodor@gmail.com">
-<img src="https://img.shields.io/badge/Email-white?logo=Email&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Email-blue?logo=Email&logoColor=white"/></a>
 </div>
 <hr/>
 
