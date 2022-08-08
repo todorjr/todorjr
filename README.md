@@ -1,10 +1,10 @@
-### Ciao  ! 👋🏻
+### Ciao tutti  ! 👋🏻
 
 
 - 💻 Junior Frontend developer @jack-agency 🎯
 - 🔭 I’m currently working with <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg?short_path=27afad0" title="Vue" alt="Vue" width="20" height="20"/> 💻
 - 🌱 I’m currently learning <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="20" height="20" /> 
-- 🤔 I'm looking to find a company where I can upgrade my knowledge and be part of an amazing team  🏢
+- 🤔 I'm curious about programming and I have passion for creativity and problem solving and also aiming to be part of an amazing team with outstading knowledge and sense of team works  🏢
 - 📫 How to reach me: 
 <div><a href="https://www.linkedin.com/in/lazar-v-todorovic-3a3312188/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/></a>
