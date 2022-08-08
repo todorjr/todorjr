@@ -16,9 +16,9 @@
 <hr/>
 
  👨🏻‍💻 About me: <br>
-My name is Lazar Todorovic and I'm FrontEnd developer.I'm originally from Serbia,living in Paris!🇷🇸🇫🇷<br>
-I had finished program for Web Development by <a href="https://openclassrooms.com/en/">OpenClassrooms</a>.<br>
-In my free time ,I love to play tennis and football,and also hiking is my favorite hobby ! ✌🏼
+My name is Lazar Todorovic and I'm Frontend developer. I'm originally from Serbia, living in Paris ! 🇷🇸 🇫🇷<br>
+I had finished program for Web Development by <a href="https://openclassrooms.com/en/">OpenClassrooms</a> .<br>
+In my free time, I love to play tennis and football, and also hiking is my favorite hobby ! ✌🏼
 
  <hr>
  :hammer_and_wrench: Languages and Tools :
