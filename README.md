@@ -1,4 +1,4 @@
-### Ciao tutti  ! 👋🏻
+### Bonjour  ! 👋🏻
 
 
 - 💻 I'm Junior Frontend developer @jack-agency 🎯
